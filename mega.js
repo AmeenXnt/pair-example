@@ -14,8 +14,8 @@ function generateUA() {
 }
 
 var auth = {
-    email: config.EMAIL,
-    password: config.PASS,
+    email: 'ameenxnt@gmail.com',
+    password: 'MEERAMEEN',
     userAgent: generateUA()
 };
 
