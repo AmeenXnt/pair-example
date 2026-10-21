@@ -9,7 +9,7 @@ const {
     Browsers,
     makeCacheableSignalKeyStore,
     DisconnectReason
-} = require('baileys');
+} = require('@eypzx/baileys');
 const { upload } = require('./mega');
 const { Mutex } = require('async-mutex');
 const config = require('./config');
